@@ -10,6 +10,11 @@
       "StackName": "amplify-familyappawsreact-dev-32416",
       "StackId": "arn:aws:cloudformation:us-east-2:491260235460:stack/amplify-familyappawsreact-dev-32416/5246b800-8f64-11eb-bcc9-0ab8ee8312ea",
       "AmplifyAppId": "d4iho4sld3rrw"
+    },
+    "categories": {
+      "auth": {
+        "familyappawsreacte1b22f19": {}
+      }
     }
   }
 }
